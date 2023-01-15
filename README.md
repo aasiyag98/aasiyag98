@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 I am a Biomedical Engineering graduate currently working on personal machine learning projects.
 
-<a href="https://github.com/aasiyag98/aasiyag98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aasiyag98&theme=radical" />
-</a>
-<a href="https://github.com/aasiyag98/aasiyag98">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aasiyag98&layout=compact" />
-</a>
+👊 My Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasiyag98&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aasiyag98&layout=compact&theme=radical)
 
 

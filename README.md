@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 I am a Biomedical Engineering graduate currently working on personal machine learning projects.
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=aasiyag98&theme=radical" />
- <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aasiyag98&layout=compact" />
-</div>
+<a href="https://github.com/aasiyag98/aasiyag98">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aasiyag98&theme=radical" />
+</a>
+<a href="https://github.com/aasiyag98/aasiyag98">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aasiyag98&layout=compact" />
+</a>
+
+

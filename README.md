@@ -18,7 +18,7 @@ I am a Biomedical Engineering graduate currently working on personal machine lea
 
 👊 My Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aasiyag98&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=aasiyag98&theme=radical)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aasiyag98&layout=compact&theme=radical)
 
 
